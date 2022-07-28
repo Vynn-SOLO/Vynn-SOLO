@@ -6,7 +6,7 @@
 > * Live at Makassar, Sulawesi Selatan 
 > * 🎂20 November
 
-
+--------
 
 
 ### 🛠 &nbsp;I am currently studying:
@@ -16,6 +16,8 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 
+--------
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -23,3 +25,5 @@
 <a href="mailto:vynzo.notbusiness696@gmail.com"><img src="https://img.shields.io/badge/-My Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/yukihana_vynn"><img src="https://img.shields.io/badge/-Follow My Social Media-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
+
+--------
