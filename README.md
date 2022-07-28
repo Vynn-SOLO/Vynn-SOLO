@@ -2,10 +2,11 @@
 
 ## &nbsp;Hello👋, I'm PhynX
 ### 👨🏻‍💻 &nbsp;About Me
-> • I'm a newbie in programming
-> • Live at Makassar, Sulawesi Selatan 
-> • 🎂20 November
-> 
+> * I'm a newbie in programming
+> * Live at Makassar, Sulawesi Selatan 
+> * 🎂20 November
+
+
 
 
 ### 🛠 &nbsp;I am currently studying:
